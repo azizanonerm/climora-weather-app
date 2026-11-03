@@ -1,3 +1,7 @@
+# Climora Weather App
+
+Climora is a responsive weather dashboard built with React and Vite. It presents current conditions and a seven-day forecast in a clean interface designed for everyday planning.
+
 ## Screenshots
 
 Climora is designed to provide a consistent experience across screen sizes, with a spacious desktop layout and a focused mobile interface.
@@ -9,10 +13,6 @@ Climora is designed to provide a consistent experience across screen sizes, with
 ### Mobile preview
 
 ![Climora mobile preview](./screenshots/mobile.png)
-
-# Climora Weather App
-
-Climora is a responsive weather dashboard built with React and Vite. It presents current conditions and a seven-day forecast in a clean interface designed for everyday planning.
 
 ## Features
 
